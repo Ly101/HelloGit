@@ -1,0 +1,11 @@
+package com.alps.git;
+
+/**
+ * @author Ly
+ * @date 2020/10/7 14:18
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
