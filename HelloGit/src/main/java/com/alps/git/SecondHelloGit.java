@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 public class SecondHelloGit {
 
     private LocalDateTime date;
-
+    private long count;
     public LocalDateTime getDate()
     {
         return this.date;
@@ -18,5 +18,13 @@ public class SecondHelloGit {
     public void setDate(LocalDateTime date)
     {
         this.date = date;
+    }
+
+    public long getCount() {
+        return count;
+    }
+
+    public void setCount(long count) {
+        this.count = count;
     }
 }
