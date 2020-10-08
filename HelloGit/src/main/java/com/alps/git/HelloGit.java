@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("second modify");
         System.out.println("third modify");
         System.out.println("master test idea solve conflict");
+        System.out.println("test idea solve conflict");
     }
 }
