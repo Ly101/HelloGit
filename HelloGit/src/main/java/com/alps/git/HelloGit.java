@@ -6,6 +6,7 @@ package com.alps.git;
  */
 public class HelloGit {
     public static void main(String[] args) {
+        System.out.println("master test TortoiseGit solve conflict");
         System.out.println("Hello Git");
         System.out.println("second modify");
         System.out.println("third modify");
